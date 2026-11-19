@@ -1,0 +1,12 @@
+Metric,Value
+Total Transactions,18365
+Total Customers,1500
+Total Products,120
+Total Cleaned Records,59669
+Total Sales,506977.19
+Best Forecasting Model,Gradient Boosting
+Best Model MAE,14.711
+Best Model RMSE,18.6857
+Best Model R2,0.7439
+Frequent Itemsets Discovered,143
+Customers with Recommendations,1500

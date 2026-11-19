@@ -1,0 +1,27 @@
+INTELLIGENT RETAIL ANALYTICS PROJECT
+=============================================
+
+PROJECT OVERVIEW
+This project analyzes retail transactions, forecasts product demand, discovers frequently purchased product combinations, and recommends products.
+
+DATASET SUMMARY
+Total transactions: 18365
+Total customers: 1500
+Total products: 120
+Cleaned records: 59669
+Total sales: 506977.19
+
+DEMAND FORECASTING
+Best model: Gradient Boosting
+MAE: 14.7110
+RMSE: 18.6857
+R2: 0.7439
+
+FREQUENT PATTERN MINING
+Frequent itemsets discovered: 143
+
+PRODUCT RECOMMENDATIONS
+Customers receiving recommendations: 1500
+
+FORECAST PERIOD
+Next four weeks of product demand
